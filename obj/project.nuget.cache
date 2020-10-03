@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v1ptuRike+nGo4Hoca2tm570JcR2XHf53WHqG3iQhMIjWzzMrbDw7UGkTPYKTexkDiM2MmEDuAFFiw1/eKllPA==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Spike\\MemoryCache\\MemoryCache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sean\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
