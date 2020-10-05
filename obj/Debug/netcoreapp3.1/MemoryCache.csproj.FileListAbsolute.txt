@@ -32,7 +32,6 @@ C:\Development\Spike\MemoryCache\obj\Debug\netcoreapp3.1\MemoryCache.dll
 C:\Development\Spike\MemoryCache\obj\Debug\netcoreapp3.1\MemoryCache.pdb
 C:\Development\Spike\MemoryCache\obj\Debug\netcoreapp3.1\MemoryCache.genruntimeconfig.cache
 C:\Development\Spike\MemoryCache\obj\Debug\netcoreapp3.1\MemoryCache.csproj.CopyComplete
-C:\Development\Spike\MemoryCache\obj\Debug\netcoreapp3.1\MemoryCache.csprojAssemblyReference.cache
 C:\Development\Spike\MemoryCache\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Development\Spike\MemoryCache\obj\Debug\netcoreapp3.1\MemoryCache.csproj.CoreCompileInputs.cache
 C:\Development\Spike\MemoryCache\obj\Debug\netcoreapp3.1\MemoryCache.MvcApplicationPartsAssemblyInfo.cache
